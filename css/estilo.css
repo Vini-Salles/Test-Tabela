@@ -1,0 +1,74 @@
+body {
+    background-color: #c0c0c0 !important;
+}
+
+/*----------------------------------------------------------------------------*/
+
+.card-div {
+    height: 83vh !important;
+    margin-left: 25% !important;
+    margin-top: 50px !important;
+    background-color: #c0c0c0 !important;
+    overflow-x: scroll !important;
+    overflow-y: scroll !important;
+    border: 0 !important;
+}
+
+.input-pesquisar {
+    margin-left: 3% !important;
+    margin-bottom: -300px !important;
+    background-color: #c0c0c0 !important;
+    border: 0 !important;
+    border-bottom: 1px solid white !important;
+}
+
+.modal-content {
+    width: 700px !important;
+    margin-left: -19% !important;
+}
+
+.container_div {
+    margin-top: 90px !important;
+    margin-left: 27% !important;
+}
+
+.form-group {
+    margin-bottom: 30px !important;
+}
+
+.label {
+    font-weight: bold !important;
+}
+
+#btnCadastrar {
+    width: 90px !important;
+    padding: 5px !important;
+    font-weight: bold !important;
+}
+
+#btnCadastrar:hover {
+    background-color: #545454 !important;
+}
+
+.tabela-registro {
+    width: 900px !important;
+    margin-top: 150px !important;
+    margin-left: 3% !important;
+}
+
+
+/*----------------------------------------------------------------------------*/
+
+
+.navbar_footer {
+    display: block !important;
+}
+
+span {
+    display: block;
+    text-align: center !important;
+}
+
+
+
+/*----------------------------------------------------------------------------*/
